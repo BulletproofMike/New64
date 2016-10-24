@@ -10,6 +10,6 @@ hooks = [
 {
 "name": "gyp",
 "pattern": ".",
-"action": ["python", "src/tools/gyp/gyp_main.py", "New46/scripts/New64.gyp"],
+"action": ["python", "src/tools/gyp/gyp_main.py", "New64/scripts/New64.gyp"],
 }
 ]
