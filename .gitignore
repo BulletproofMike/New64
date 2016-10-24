@@ -1,0 +1,11 @@
+scripts/Debug
+scripts/Release
+scripts/*.sln
+scripts/*.ncb
+scripts/*.vcproj*
+scripts/*.vcxproj*
+scripts/*.suo
+scripts/.vs
+scripts/*.VC.*
+scripts/ipch
+scripts/Default
