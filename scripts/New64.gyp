@@ -17,11 +17,6 @@
 		
 		'default_configuration': 'Debug',
 		'conditions': [	
-			['library_type == "static_library"', {
-				'defines':[
-					
-				],
-			}],
 			['OS == "win"', {
 				'defines':[
 					'_CRT_SECURE_NO_WARNINGS',
